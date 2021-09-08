@@ -1,0 +1,12 @@
+D:\VS\ToDoList.DAL\bin\Debug\netcoreapp3.1\ToDoList.DAL.deps.json
+D:\VS\ToDoList.DAL\bin\Debug\netcoreapp3.1\ToDoList.DAL.dll
+D:\VS\ToDoList.DAL\bin\Debug\netcoreapp3.1\ToDoList.DAL.pdb
+D:\VS\ToDoList.DAL\obj\Debug\netcoreapp3.1\ToDoList.DAL.csprojAssemblyReference.cache
+D:\VS\ToDoList.DAL\obj\Debug\netcoreapp3.1\ToDoList.DAL.AssemblyInfoInputs.cache
+D:\VS\ToDoList.DAL\obj\Debug\netcoreapp3.1\ToDoList.DAL.AssemblyInfo.cs
+D:\VS\ToDoList.DAL\obj\Debug\netcoreapp3.1\ToDoList.DAL.csproj.CoreCompileInputs.cache
+D:\VS\ToDoList.DAL\obj\Debug\netcoreapp3.1\ToDoList.DAL.dll
+D:\VS\ToDoList.DAL\obj\Debug\netcoreapp3.1\ToDoList.DAL.pdb
+D:\VS\ToDoList.DAL\bin\Debug\netcoreapp3.1\ToDoList.DAL.runtimeconfig.json
+D:\VS\ToDoList.DAL\bin\Debug\netcoreapp3.1\ToDoList.DAL.runtimeconfig.dev.json
+D:\VS\ToDoList.DAL\obj\Debug\netcoreapp3.1\ToDoList.DAL.genruntimeconfig.cache

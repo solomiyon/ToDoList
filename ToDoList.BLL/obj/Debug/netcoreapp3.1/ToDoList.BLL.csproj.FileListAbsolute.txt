@@ -1,0 +1,12 @@
+D:\VS\ToDoList.BLL\bin\Debug\netcoreapp3.1\ToDoList.BLL.deps.json
+D:\VS\ToDoList.BLL\bin\Debug\netcoreapp3.1\ToDoList.BLL.dll
+D:\VS\ToDoList.BLL\bin\Debug\netcoreapp3.1\ToDoList.BLL.pdb
+D:\VS\ToDoList.BLL\bin\Debug\netcoreapp3.1\ToDoList.DAL.dll
+D:\VS\ToDoList.BLL\bin\Debug\netcoreapp3.1\ToDoList.DAL.pdb
+D:\VS\ToDoList.BLL\obj\Debug\netcoreapp3.1\ToDoList.BLL.csprojAssemblyReference.cache
+D:\VS\ToDoList.BLL\obj\Debug\netcoreapp3.1\ToDoList.BLL.AssemblyInfoInputs.cache
+D:\VS\ToDoList.BLL\obj\Debug\netcoreapp3.1\ToDoList.BLL.AssemblyInfo.cs
+D:\VS\ToDoList.BLL\obj\Debug\netcoreapp3.1\ToDoList.BLL.csproj.CoreCompileInputs.cache
+D:\VS\ToDoList.BLL\obj\Debug\netcoreapp3.1\ToDoList.BLL.csproj.CopyComplete
+D:\VS\ToDoList.BLL\obj\Debug\netcoreapp3.1\ToDoList.BLL.dll
+D:\VS\ToDoList.BLL\obj\Debug\netcoreapp3.1\ToDoList.BLL.pdb
